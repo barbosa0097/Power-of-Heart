@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Satisfy&display=swap');
+
+/* font-family: 'Satisfy', cursive;
+font-family: 'Lato', sans-serif; */
+
+p{
+    font-family: 'Lato', sans-serif;
+}
+
+.card-columns {
+    background-color: #328CC1;
+}
+
+#center {
+    background-color: #D9B310 !important;
+}
+
+#quote{
+    color:black !important;
+}
+
+#word{
+    color: black;
+}
